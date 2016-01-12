@@ -1,0 +1,5 @@
+This is a simple collaborative to-do app written as an introduction to Meteor.js. 
+Features include:
+	-User Authentication
+	-Hide private tasks
+	-Hide all checked off tasks
